@@ -13,10 +13,10 @@ Interships
 ----------
 Sales & Finance Departments in Arçelik A.Ş.  
 
+Projects 
+--------
+Mutual Influence of Art and Society 
 
-Fields of Interest
------------------
-Labor Economics, Education Economics, Applied Econometrics, Economic Policy, Income distribution and Inequality
 
 
 Language Skills
@@ -26,10 +26,10 @@ Turkish (Native), English (Advanced)
 
 Computer Skills
 ---------------
-Stata , Eviews
+Stata , Eviews, Gretl, MS Office
 
 
-Projects 
---------
-Mutual Influence of Art and Society 
+Fields of Interest
+-----------------
+Labor Economics, Education Economics, Applied Econometrics, Economic Policy, Income distribution and Inequality
 

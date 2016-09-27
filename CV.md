@@ -11,7 +11,7 @@ Education
 
 Interships
 ----------
-*Sales & Finance Departments in Arçelik A.Ş.  
+Sales & Finance Departments in Arçelik A.Ş.  
 
 
 Fields of Interest

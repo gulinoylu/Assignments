@@ -1,8 +1,10 @@
 Gülin Öylü
 ==========
 
+
 Personal Data
 -------------
+
 Name:            Gulin Oylu 
 
 Adress:          339
@@ -27,6 +29,7 @@ Education
 2004-2008       Denizli Anatolian High School 
 
 
+
 Professional Experience
 -----------------------
 
@@ -37,9 +40,11 @@ Interships
 ----------
 Sales & Finance Intern in Arçelik A.Ş.  
 
+
 Projects 
 --------
 Mutual Influence of Art and Society 
+
 
 
 Skills
@@ -48,6 +53,7 @@ Language Skills:  Turkish (Native), English (Advanced)
 
 
 Computer Skills:   Stata, Eviews, Gretl, MS Office
+
 
 
 Fields of Interest

@@ -21,10 +21,10 @@ Date of Birth:   25/08/1990
 Education
 ---------
 
-2013-2016       M.S., Economics, Middle East Technical University, Ankara, Turkey
+2013-2016       MSc, Economics, Middle East Technical University, Ankara, Turkey
                 Thesis Title: Intergenerational Transmission of Poverty in Turkey (Advisor:  Prof. Dr. Meltem Dayioglu Tayfur) 
 
-2008-2013       B.S., Economics (with Honours), Middle East Technical University, Ankara, Turkey
+2008-2013       BSc., Economics (with Honours), Middle East Technical University, Ankara, Turkey
 
 2004-2008       Denizli Anatolian High School 
 

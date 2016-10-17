@@ -22,7 +22,6 @@ Education
 ---------
 
 2013-2016       MSc, Economics, Middle East Technical University, Ankara, Turkey
-                Thesis Title: Intergenerational Transmission of Poverty in Turkey (Advisor:  Prof. Dr. Meltem Dayioglu Tayfur) 
 
 2008-2013       BSc., Economics (with Honours), Middle East Technical University, Ankara, Turkey
 
@@ -43,7 +42,7 @@ Sales & Finance Intern in Arçelik A.Ş.
 
 Projects 
 --------
-Mutual Influence of Art and Society 
+Mutual Influence of Art and Society (2011, Leuven,Belgium)
 
 
 

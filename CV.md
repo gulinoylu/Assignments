@@ -35,7 +35,7 @@ Professional Experience
 November, 2014- August,2016				 Research Assistant, Department of Economics 
                                    Middle East Technical University, Ankara, TURKEY
 
-Interships
+Internships
 ----------
 Sales & Finance Intern in Arçelik A.Ş.  
 

@@ -4,10 +4,14 @@ Gülin Öylü
 Personal Data
 -------------
 Name:            Gulin Oylu 
+
 Adress:          339
                  5038LZ
+                 
 Cell:            +31 0619982865
+
 E-mail:          gulinoylu@gmail.com
+
 Date of Birth:   25/08/1990
 
 
